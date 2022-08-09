@@ -10,28 +10,28 @@ The app, "Spotography" is a tool to assist photographers and various other profe
    <tr>
       <td>
         <h2>Home Screen View</h2>
-        <img src="/assets/spotographer_home.png" width="100">
+        <img src="/assets/spotographer_home.png" width="200">
      </td>
       <td>
         <h2>Location Detail View</h2>
-        <img src="/assets/spotographer_location-details.png" width="100">
+        <img src="/assets/spotographer_location-details.png" width="200">
      </td>   
    </tr>
   <tr>
     <td>
       <h2>Add Location View</h2>
-      <img src="/assets/spotographer_add-location.png" width="100">
+      <img src="/assets/spotographer_add-location.png" width="200">
     </td>
      <td>
       <h2>Account screen</h2>
-      <img src="/assets/spotographer_account-screen.png" width="100">
+      <img src="/assets/spotographer_account-screen.png" width="200">
      </td>
   </tr>
    <tr>
       <td>
          <h2>User Locations List View</h2>
          <p float="left">
-            <img src="Spotographer/assets/spotographer_locations_list.png" width="100" />
+            <img src="/assets/spotographer_locations_list.png" width="200" />
          </p>
       </td>
       <td>

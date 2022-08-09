@@ -18,7 +18,7 @@ function FormImagePicker({ name }) {
       imageUris.filter((imageUri) => imageUri !== uri)
     );
   };
-
+ 
   return (
     <>
       <ImageInputList

@@ -16,4 +16,4 @@ const AccountNavigator = () => (
   </Stack.Navigator>
 );
 
-export default AccountNavigator;
+export default AccountNavigator; 

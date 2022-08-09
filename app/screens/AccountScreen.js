@@ -6,7 +6,7 @@ import colors from "../config/colors";
 import Icon from "../components/Icon";
 import routes from "../navigation/Routes";
 import Screen from "../components/Screen";
-
+ 
 const menuItems = [
   {
     title: "My Locations",
@@ -25,7 +25,7 @@ const menuItems = [
     targetScreen: routes.MESSAGES,
   },
 ];
-
+  
 function AccountScreen({ navigation }) {
   return (
     <Screen style={styles.screen}>

@@ -11,7 +11,7 @@ import {
 } from "../components/forms";
 import Screen from "../components/Screen"
 import FormImagePicker from "../components/forms/FormImagePicker";
-
+ 
 const validationSchema = Yup.object().shape({
   title: Yup.string().required().min(1).label("Title"),
   price: Yup.number().required().min(1).max(10000).label("Price"),
@@ -61,7 +61,7 @@ setLocation({latitude, longitude});
     getLocation()
   }, [])
 
-
+ 
   return (
     <Screen style={styles.container}>
       <AppForm

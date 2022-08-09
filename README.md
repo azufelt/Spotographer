@@ -1,9 +1,6 @@
 # Overview
 
-As a software engineer I'm working on ways to implement important applications on platforms that allow the most useful tools to be available at a user's fingertips. Not every userful program should be on a mobile device, however, the tools that a user needs while they are away from a desktop are critical to have implemented as native mobile apps, preventing down-time and frustrating situations trying to use web-only applications from a handheld/mobile. 
-
-
-The app, "Spotography" is a tool to assist photographers and various other professions that desire to log and track location data. It allows the user to add a new location to a list via a form field. Within the form they are able to use their device camera to take a picture of the location for future reference, add a description, as well as save the geo-location data so they can easily map their locations and return again in the future. 
+Spotography is a tool to assist photographers and others that desire to log and track location data. It allows the user to add a new location to a list via a form field. Within the form they are able to use their device camera to take a picture of the location for future reference and add a description. In the future a geo-location tag will be saved, so the user can easily map their locations and return again in the future. 
 
 
 <table border="0">
